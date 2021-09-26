@@ -25,8 +25,8 @@ function modelLoaded(){
 }
 
 function draw(){
-    image(video, 0, 0, 600, 500);z
-    fiil("green");
+    image(video, 0, 0, 600, 500);
+    fill("green");
     stroke("black");
 
     if(scoreleftwrist > 0.2){
